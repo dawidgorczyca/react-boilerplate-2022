@@ -8,8 +8,8 @@ Base boilerplate I'm using for my Frontend projects. On branch 'nav-and-data' yo
 - Webpack:
   - Configuration for SVGs
 - TypeScript
-- Prettier :red_circle: **(WARNING: Oppinionated configuration)** :red_circle:
-- ESLint :red_circle: **(WARNING: Oppinionated configuration)** :red_circle:
+- Prettier :red_circle: **(WARNING: Opinionated configuration)** :red_circle:
+- ESLint :red_circle: **(WARNING: Opinionated configuration)** :red_circle:
 - Husky with lint-staged configured
 - On branch `nav-and-data` version with `react-router` and `redux` configured.
 

@@ -1,5 +1,5 @@
 # React 2022 Boilerplate
-Base boilerplate I'm using for my Frontend projects. On branch 'nav-and-data' you can find a version with `react-router` and `redux` configured.
+Base boilerplate I'm using for my Frontend projects. On branch `nav-and-data` you can find a version with `react-router` and `redux` configured.
 
 ---
 
